@@ -1,0 +1,4 @@
+coloredlogs
+flask
+Flask-WTF
+requests
